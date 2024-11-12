@@ -12,9 +12,11 @@ As we know, in Indonesia there are several denominations of money as follows:
 | Rp 5,000      | -           |
 | Rp 2,000      | -           |
 
-*To make it easier, we assume that all Rp. 1000 denominations are coins.
+_*To make it easier, we assume that all Rp. 1000 denominations are coins._
 
-There are circumstances where the bank must liquidate all customer savings in the form of money, if the customer requests it. Also imagine this is happening right now in front of you, so help the bank to calculate how many denominations of the money are needed.
+There are circumstances where the bank must liquidate all customer savings in the form of money, if the customer requests it. Also imagine this is happening right now in front of you, so help the bank to calculate how many denominations of the money are needed. 
+
+So, in essence, participants are instructed to create a python program which can accept an input (integer) from the user in the form of rupiah money and will generate output in the form of how many paper money and coins can be taken and the rest that cannot be exchanged.
 
 Here is the rule:
 1. Banks must prioritize the largest denominations first to be issued.
@@ -29,6 +31,8 @@ The output is telling the bank:
 
 ## Number 3 - EDA & Data Visualization using Pandas
 HR professionals generally lag behind with respect to analytics and data visualization competency. Thus, Dr. Carla Patalano set out to create their own HR-related dataset, which is used in one of the graduate MSHRM courses called HR Metrics and Analytics, at New England College of Business. He created this data set. We will use the data set to analyze the data and make some prediction models.
+
+So, in essence, participants are instructed to develop / continue a python [PANDAS] program which is used to process the dataset that has been provided along with the EDA process and also visualize the data. In addition, there are several questions that must also be answered by participants based on the program that has been developed.
 
 TO DO:
 1. Answer multiple aggregations questions using Pandas. (please refer to .ipynb for detailed questions).
